@@ -1,1 +1,42 @@
+/OBS_Financial_Solution_Technical_Test/target/
 /build/
+
+# Eclipse-specific
+.classpath
+.project
+.settings/
+.metadata/
+
+# IntelliJ IDEA-specific
+.idea/
+*.iml
+out/
+
+# Compiled output
+bin/
+target/
+
+# Build and deployment artifacts
+*.war
+*.ear
+
+# Logs
+*.log
+logs/
+
+# Dependency directories
+lib/
+WEB-INF/lib/
+
+# Configuration files with sensitive information (customize as needed)
+config.properties
+database.properties
+
+# Temporary files
+*.tmp
+*.tmp.*
+*.swp
+
+# IDE files and directories
+*.DS_Store
+Thumbs.db

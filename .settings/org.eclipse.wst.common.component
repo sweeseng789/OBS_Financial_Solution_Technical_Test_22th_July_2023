@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="OBS Financial Solution Technical Test">
+    <wb-module deploy-name="OBS Solution Technical Test">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-        <property name="context-root" value="OBS_Financial_Solution_Technical_Test"/>
-        <property name="java-output-path" value="/OBS Financial Solution Technical Test/build/classes"/>
+        <property name="context-root" value="OBS_Solution_Technical_Test"/>
+        <property name="java-output-path" value="/OBS Solution Technical Test/build/classes"/>
     </wb-module>
 </project-modules>
